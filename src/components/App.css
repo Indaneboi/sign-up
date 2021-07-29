@@ -54,6 +54,7 @@
   color: #ededed;
   background: #000;
   border: 1px solid #444857;
+  position: absolute;
   text-align: center;
   bottom: 0;
   width: 100%;
