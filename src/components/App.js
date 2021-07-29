@@ -69,7 +69,7 @@ function App() {
         <h1>Sign-up: {contact.fName} </h1>
         <br></br>
         <br></br>
-        <form>
+        <form action="https://zenexia-codepad.netlify.app/">
           <input
             onChange={handler}
             value={contact.fName}
@@ -106,7 +106,7 @@ function App() {
           />
           <br></br>
           <br></br>
-          <button>Submit</button>
+          <button type="submit">Submit</button>
         </form>
       </div>
 
