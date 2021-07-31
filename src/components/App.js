@@ -69,7 +69,7 @@ function App() {
         <h1>Sign-up: {contact.fName} </h1>
         <br></br>
         <br></br>
-        <form action="https://zenexia-codepad.netlify.app/">
+        <form action="https://zenexia-home.netlify.app/">
           <input
             onChange={handler}
             value={contact.fName}
